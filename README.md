@@ -1,4 +1,4 @@
-# <:flow:1526603051211948102> flow — ER:LC Multi-Guild Discord Bot
+# flow — ER:LC Multi-Guild Discord Bot
 
 **flow** is a comprehensive, production-ready Discord bot built with Node.js and discord.js v14 that integrates with Emergency Response: Liberty County server APIs. It consolidates Moderation, API Webhooks, Support Tickets, and Shift Tracking, replacing Circle, Ducky, Melonly, ERM, Ticket Tool, and Warden in a single unified system.
 
